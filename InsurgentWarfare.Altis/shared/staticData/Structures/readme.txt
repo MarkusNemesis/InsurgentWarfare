@@ -1,0 +1,1 @@
+Contains the structure classes for the structures that are available, per faction.

@@ -1,0 +1,18 @@
+class Header {
+	gameType = DM;
+	minPlayers = 1;
+	maxPlayers = 40;
+};
+
+respawn = "BASE";
+respawnDelay = 15;
+respawnDialog = 1;
+onLoadMission = "A3 Mission Framework 0.1v - By Markus.Davey";
+onLoadMissionTime = false;
+enableItemsDropping = 0;
+// For debugging
+enableDebugConsole = 1;
+//loadScreen = "Rsc\loadscreen.paa";
+
+// Parameters
+#include "Rsc\parameters.hpp"

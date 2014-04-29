@@ -1,0 +1,1 @@
+Contains the gear that is available per faction.
